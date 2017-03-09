@@ -1,4 +1,4 @@
-require 'lib/geeks'
+require 'geeks'
 
 
 use Rack::Reloader, 0
